@@ -1,0 +1,36 @@
+Drone Warfare: Speaker’s Notes
+The large-scale investments and intensive research on autonomous and remotely-controlled weapons affirm the revolutionary impacts of drones as cheap and highly effective systems for conducting modern warfare. Currently, almost all conventional militaries worldwide, guerrilla groups, and even drug traffickers operate drones that range from rudimentary systems to highly advanced surveillance and attack weapons. The consensus among military observers is the drones’ emergence as an integral and ever-present component of contemporary conflicts. Unfortunately, discourses on the effectiveness and benefits of drones to modern-day combatants greatly avoid some of the most important issues regarding the ethical dimensions of remote warfare. Erich Freiberger’s article tackles these inadequately addressed concerns head-on and the author offers comprehensive discussions on the moral issues around using remotely controlled weapons systems with a specific focus on the United States government.
+
+Understanding “Just War”
+
+The author applies a systematic approach in his article and begins by presenting a historical overview of the “Just War Tradition” to create awareness of the core principles of conflicts. Freiberger (2013) asserts that the decisions to conduct any warfare must address four pertinent questions based on the “jus in bello” and “jus ad bellum” doctrines to prevent chaos. In his assessments, Freiberger insists that combatants in any present-day armed conflict must consider the military necessity, distinction, proportionality, and humanity principles codified in established international agreements. The author then proceeds to provide detailed analyses of each of the identified doctrines and explain their influence on ethical interpretations of modern wars. Most interestingly, Freiberger does not object violent engagements and even considers them necessary in sustaining geopolitical order. Instead, the author underscores the necessity of complying with existing rules for consistency and minimal collateral damages.
+
+Revelations in Leaked Whitepaper
+
+Freiberger’s article provides a critical analysis of the leaked white paper detailing the United States government’s justifications for conducting drone attacks against militant groups based on domestic and international laws. The author is quick to point out inadequacies in the Justice Department’s arguments supporting its drone warfare based on the issue of threat imminence, feasibility of capture, and consistency with war principles. Freiberger strongly opposes the department’s explanation of the imminence of threats presented by terrorists by pointing out the broad and indefinite interpretations of the concept of imminence that make it open to abuse. The author also rejects the government’s misleading narrative that the unfeasibility of capture makes drones the only suitable alternative in combating terrorism. Freiberger contends that conducting the drone warfare consistently violates the international principles of war especially through the killings of noncombatants and harming of innocent bystanders. The author concludes his article by suggesting that the United States drone warfare is unethical and ineffective because the existing frameworks that inform the decision to use remote weapons are flawed and open to manipulation.
+
+Summary
+
+In their article, Hijazi et al. (2019) delve on the psychological impacts of drone warfare on operators and the targeted populations to establish the suitability of the new weapons systems in modern combat. The authors highlight some of the perceived benefits of unmanned aerial vehicles (UAVs) to the United States and the military’s successes in various theatres from using drones. However, the remote killing exposes the drone operators to serious mental health problems that often remain unaddressed and systematically overlooked by military officials. Hijazi et al. (2019) note that the drone operators face unique challenges such as time and space compression, connection with targets, PTSD from killing noncombatants alongside the militants, and witnessing the deaths on regular basis. The authors of point out the psychological distress caused by the persistent fear of drone strikes among communities in targeted areas, the financial impacts of drone attacks, and implications on community interactions. Most importantly, the authors assert the need to address the psychological dimensions of drone warfare to ensure that prevent the immoral use of remote weapons.
+
+Reason for Choosing the Article
+
+Drone warfare introduces complex dimensions to modern-day conflicts due to the insufficiently addressed issues of proportionality, necessity, and humanity. Erich Freiberger offers an in-depth analysis of the moral issues that arise during armed conflicts to create awareness of important guiding principles that inform the rules of engagement in war. Although insightful and comprehensive, Freiberger’s article does not tackle issues faced by very important but often overlooked groups in the drone warfare, the drone operators and noncombatants in targeted areas. Consequently, selecting the article by Hijazi et al. is necessary because it ensures that discussions on the ethics of drone warfare adopt a holistic approach that considers the unique problems experienced by all affected persons. I believe that the secondary article is crucial because focusing the discourse on drone warfare on the decision-making levels is insufficient due to the arising politics. In contrast, exploring the psychological impacts of drone warfare strengthens the discussions on the surrounding ethical issues.
+
+Discussion Questions
+
+Some of the important questions that arise from reading the two articles include:
+
+How can policymakers address loopholes in the “imminent threat” argument to prevent misuse of drones?
+Do you think drone warfare can ever be justified according to Freiberger’s observations?
+Do you consider mental health services a fundamental necessity to drone operators, or does training suffice their experiences in conducting remote war?
+Is it possible to conduct drone warfare without causing collateral damages? Consider issues such as terrorists’ use of human shields and operations in populated areas
+Relevance of Articles
+
+The two articles present interesting and informational discourses on the use of drones in modern warfare. I consider the two articles relevant to addressing pertinent issues in engineering ethics because they highlight the risks of abuse and unintended psychological impacts of drones. For instance, Freiberger’s article reveals the possibilities of political leaders to manipulate information and distort arguments to initiate drone warfare, while HIjazi et al. underscore the adverse psychological impacts of drone strikes. In both cases, the moral dilemma faced by engineers is the decision to continue the research and development processes towards more efficient drone systems at the risks of further abuse of such weapons by politicians
+
+References
+
+Freiberger, E. (2013). Just war theory and the ethics of drone warfare.
+
+Hijazi, A., Ferguson, C. J., Ferraro, R., Hall, H., Hovee, M., & Wilcox, S. (2019). Psychological dimensions of drone warfare. Current Psychology, 2019(38), 1285-1296.

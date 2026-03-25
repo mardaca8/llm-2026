@@ -1,0 +1,64 @@
+PeopleSoft Software and HR.net Enterprise Software
+
+Thesis Statement
+
+The Discussion on this paper generally focuses on Oracle’s PeopleSoft software and HR.net Enterprise HRIS software and all aspects that revolve around the two.
+
+Introduction
+
+The Human Resource Information System (HRIS) can be defined as an online solution meant to cater for the data entry, tracking, as well as data information needs as concerns human resources while managing the payroll and accounting functions of a company (OZ, E, 2008). The majority of organizations normally pack some form of HRIS as a database and sell it. It is therefore extremely crucial for a company to carefully pick the HRIS based on the capabilities needed for the company.
+
+Discussion
+
+The human resource information system is vital for companies to manage their benefit plans and their information about employees (OZ, E 2008 pg 209). Therefore, the best HRIS software should provide:
+
+Management of all information about the company’s employees.
+Analyze and report information concerning the employees.
+Documentation as relates to the company for instance handbooks for employees and safety guidelines.
+Benefits administration such as personal information updates and enrollment.
+Incorporation with payroll that is complete in addition to other organizational accounting systems.
+Management of the applicant and resume
+In addition to this, the HRIS that most effectively serves companies tracks:
+
+Pay rises and history of employees.
+Attendance and PTO use.
+Pay grades and positions held.
+Training received.
+Performance development plans
+Disciplinary action received.
+Personal employee information.
+High potential employee identification and
+Applicant tracking, interviewing and selection (OZ, E 2008)
+An effective HRIS provides acute information on anything the company needs to track, evaluate about staff, former employees and recruits. With an appropriate HRIS, human resource personnel enables employees to do their own benefits updates and address changes (OZ, E 2008 pg 222) With this in mind we are going to discuss two HRIS software applications used by professionals in the Human Resource field. The first one is Oracle’s PeopleSoft and the second one is HR.net Enterprise by Vizual Business Tools.
+
+PeopleSoft HRIS Application Software
+
+This is an integrated software package providing numerous ways of business applications meant to help in daily operations of processes involved in business (OZ, E 2008 pg 262). Every individual function for instance Human Resource work together with other functions in order to offer a resourceful way of functioning and reporting in an incorporated fashion within the company. This software also enables companies to be able to attach individuals directly to business processes, removing present mediators, within and without the company. (Kavanagh, M 2008 pg 267) It also creates unique effectiveness and lower costs and provides companies with an unrivaled competitive advantage. Additionally it offers comprehensive HR capabilities from personnel management to compensation and talent management. These capabilities help the system to identify and track competencies within a company. (Jessup, L 2009 pg 154)
+
+HR.net Enterprise HRIS Software
+
+This is a fourth-generation HR solution constructed on a configurable Microsoft.NET structure and SQL Server 2005/2008 catalog, which allows organizations to control their most vital workforce management areas: policies, people, as well as processes (Jessup, L 2009 pg 143). It is also a whole local HRIS system that offers a highly configurable and graphical workflow; a drag and drop page design, and fully integrated document management (OZ, E 2008 pg 244). The application software is not only a fully characterized HRIS but it also incorporates a progressive toolkit that allows users to personalize and organize the system to fit organization’s operations and not the other way round. If the company operates globally then this software is the perfect solution (O’Brien J 403). This system identifies and tracks competencies for jobs within the company through the highly configurable workflow technology that enables one to automate virtually any business process and reduce duplication of effort. Also within the system, data accuracy is ensured. In simple words, HR.net is the most powerful, flexible and scalable HRIS solution in the present time (O’Brien J 2004 pg 389). This is due to the fact that the system sets a new benchmark for HR delivery, brings the full capabilities of the HR function to your fingerprints and brings together the HR fundamentals of policy, process and people in a single environment (Kavanagh, M 2008 pg 243).
+
+HR.net Enterprise uses internet technology which provides participation of all employees in the HRM processes while PeopleSoft uses a single application to meet national and regional requirements of the company (OZ, E 2008 pg 282)
+
+Additionally, both PeopleSoft and HR.net Enterprise have some common features:
+
+Server-based – This means that the software is located on a central computer.
+Database-driven – This means that the data is stored in a centrally located database which facilitates easier updates.
+Web-accessible – This means that the web browser is the prime tool for interacting with the HRIS and that the system is available to anyone with an internet connection.
+Customizable – for a system to fulfill set objectives of the context in which it is meant to be used, it needs to be easily customizable.
+Scalable – The system can be scaled to adapt to a growing company.
+Extensible – modules can be added and programmed to enable the system to meet expanding and changing needs. (Kavanagh, M 2008 pg 254 )
+Conclusion
+
+Therefore with effective HRIS software like the ones stated above, human resource employees can do their own benefits updates and address changes thus enabling them to have more time to perform other strategic functions. PeopleSoft HRIS software capabilities help the system to identify and track competencies within a company while HR.net HRIS software identifies and tracks competencies for jobs within the company through the highly configurable workflow technology that enables one to automate virtually any business process and reduce duplication of effort. Furthermore, these two types of software have some common features: Server-based, Database-driven, Web-accessible, Customizable, and Scalable features. However they each have some various disadvantages. For example for the HR.net Enterprise software, it is not as friendly as the PeopleSoft software because data accuracy is ensured within the system.
+
+References
+
+Jessup, L 2009 Information Systems today Prentice Hall Virginia pg 132-96
+
+Kavanagh, M 2008 Human Resource Information Systems: Basics, Applications and future directions Sage Washington pg 220-98
+
+O’Brien J 2004 Managing Information Technology in the Business Enterprise McGraw –Hill/ Irwin California pg 332-456
+
+OZ, E 2008 Management Information Systems Cengage Learning New York pg 211-99
