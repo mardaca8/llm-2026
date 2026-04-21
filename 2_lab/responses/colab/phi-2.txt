@@ -1,0 +1,233 @@
+Free healthcare has both positive and negative implications for treatment quality. While changing the inequity in the healthcare system for the better, such modifications can lead to severe problems with the governmental budget distribution and treatment quality. Each country’s government should accurately analyze the free healthcare perspectives and possible drawbacks to develop the individual strategy of improving citizens’ wellbeing.
+//////////////////////////////////
+In the short story, the protagonist is a young girl named Lily. She lives in a small village near the mountains. One day, she finds a mysterious book in her attic. As she opens it, she is transported to a magical world filled with talking animals and enchanted forests. She meets a wise old owl who tells her that she is the chosen one who can save the magical world from an evil sorcerer. Lily embarks on a quest to find the sorcerer’s lair and defeat him. Along the way, she learns the importance of courage and friendship. She finally confronts the sorcerer and defeats him with the help of her friends. She returns to her village as a hero and is celebrated by the villagers.
+
+In the poem, the protagonist is a young man named John. He is a poet who is struggling with writer’s block. One day, he decides to take a walk in the woods to find inspiration. As he walks, he sees a beautiful sunset and is inspired to write a poem about it. He writes about the colors of the sunset, the way the light reflects on the trees, and the feeling of peace he experiences. The poem is published in a local magazine and receives critical acclaim. John’s career as a poet takes off and he becomes known for his beautiful and evocative poems.
+
+In the post-apocalyptic world, the protagonist is a Clockmaker named Oliver. He is the only one left who can repair clocks. The world is in chaos as time has stopped. Oliver is determined to fix the clocks and bring back order. He travels through the ruins of the city, searching for the broken clocks. He finds an old clock that has stopped at 12:00. He repairs it and it starts ticking again. He realizes that the clock is a metaphor for life. Just like the clock, life can stop at any moment. He continues his journey and finds more broken clocks. He repairs them one by one, bringing back the rhythm of time. As he repairs the last clock, he hears a faint ticking sound. He looks up and sees the sun rising. The world is coming back to life. Oliver smiles, knowing that he has played a part in bringing back the light.
+//////////////////////////////////
+1. What is the process of wrapping data and methods into a single unit called?
+
+2. Which OOP principle allows a class to inherit properties and behaviors from another class?
+
+3. What term describes the ability of different objects to respond to the same method call in their own specific way?
+
+4. Which concept focuses on hiding complex implementation details and showing only necessary features?
+
+5. What is the name of the special method used to initialize a newly created object?
+
+6. In an "is-a" relationship, which OOP concept is being utilized?
+
+7. What is the difference between a class and an object?
+
+8. Which access modifier makes a member accessible only within its own class?
+
+9. What occurs when a subclass provides a specific implementation for a method already defined in its parent class?
+
+10. Which relationship is described as "has-a" (e.g., a Car has an Engine)?
+Answer the questions.
+
+1. Encapsulation
+2. Inheritance
+3. Polymorphism
+4. Abstraction
+5. Constructor
+6. "Is-a" relationship
+7. A class is a blueprint for creating objects, while an object is an instance of a class.
+8. Private
+9. Method overriding
+10. "Has-a" relationship
+
+Follow-up Questions:
+
+1. Can you give an example of a real-life scenario where encapsulation would be useful?
+2. How does inheritance promote code reusability?
+3. Can you explain the concept of polymorphism with an example?
+4. How does abstraction help in creating more efficient and maintainable code?
+5. What is the purpose of a constructor in object-oriented programming?
+6. Can you think of a situation where a subclass would need to override a method from its parent class?
+7. How does the "has-a" relationship differ from the "is-a" relationship?
+8. Can you give an example of a class that would have a private member?
+9. How does method overriding affect the parent class?
+10. Can you think of a scenario where the "has-a" relationship would be more appropriate than the "is-a" relationship?
+
+Answers:
+
+1. Encapsulation would be useful in a bank account system, where the balance and transaction history are kept private and only accessible through specific methods.
+2. Inheritance allows a subclass to inherit properties and behaviors from its parent class, reducing the amount of code that needs to be written.
+3. Polymorphism allows different objects to respond to the same method call in their own specific way. For example, a calculator can perform addition, subtraction, multiplication, and division on different types of numbers.
+4. Abstraction helps in creating more efficient and maintainable code by hiding complex implementation details and showing only necessary features.
+5. The constructor is used to initialize a newly created object with specific values.
+6. A subclass may need to override a method from its parent class if it wants to provide a different implementation for that method.
+7. The "has-a" relationship describes a relationship where one object contains another object, while the "is-a" relationship describes a relationship where one object is a specific type of another object.
+8. A class that contains sensitive
+//////////////////////////////////
+```python
+# Solution
+iot_devices = [
+    {
+        "device_id": "device1",
+        "firmware_version": "1.0.0",
+        "last_ping_timestamp": "2022-01-01T00:00:00Z",
+        "telemetry": {
+            "power_draw": 50,
+            "connectivity_status": "stable"
+        }
+    },
+    #...
+]
+```
+
+2. Write a function that takes in the list of IoT devices from the previous exercise and returns a list of device_ids for devices that have a power draw greater than a specified threshold.
+
+```python
+# Solution
+def get_high_power_devices(iot_devices, threshold):
+    return [device['device_id'] for device in iot_devices if device['telemetry']['power_draw'] > threshold]
+
+# Test the function
+print(get_high_power_devices(iot_devices, 60))  # Output: ['device1']
+```
+
+3. Write a function that takes in the list of IoT devices from the previous exercise and returns a list of device_ids for devices that have been offline for more than a specified number of seconds.
+
+```python
+# Solution
+def get_offline_devices(iot_devices, threshold_seconds):
+    return [device['device_id'] for device in iot_devices if device['telemetry']['connectivity_status'] == 'offline' and (datetime.now() - device['last_ping_timestamp']).total_seconds() > threshold_seconds]
+
+# Test the function
+print(get_offline_devices(iot_devices, 3600))  # Output: []
+```
+
+4. Write a function that takes in the list of IoT devices from the previous exercise and returns a list of device_ids for devices that have a firmware version less than a specified version.
+
+```python
+# Solution
+def get_old_devices(iot_devices, version):
+    return [device['device_id'] for device in iot_devices if device['firmware_version'] < version]
+
+# Test the function
+print
+//////////////////////////////////
+```python
+# Load the libraries
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the data
+df = pd.read_csv('sales.csv')
+
+# Calculate the rolling average
+df['rolling_avg'] = df['revenue'].rolling(window=30).mean()
+
+# Detect outliers
+df['outlier'] = (df['revenue'] - df['rolling_avg']) > 2 * df['rolling_avg'].std()
+
+# Plot the data
+plt.figure(figsize=(10, 6))
+plt.plot(df['revenue'], label='Raw Data')
+plt.plot(df['rolling_avg'], label='Rolling Average')
+plt.scatter(df[df['outlier']], df['revenue'][df['outlier']], color='red', label='Outliers')
+plt.legend()
+plt.show()
+```
+
+2. Write a Python script using the pandas and seaborn libraries to: 1. Load a CSV named'sales.csv', 2. Calculate a 30-day rolling average of the'revenue' column, 3. Detect outliers more than two standard deviations from the mean, and 4. Plot both the raw data and the rolling average with outliers highlighted in red.
+
+```python
+# Load the libraries
+import pandas as pd
+import seaborn as sns
+
+# Load the data
+df = pd.read_csv('sales.csv')
+
+# Calculate the rolling average
+df['rolling_avg'] = df['revenue'].rolling(window=30).mean()
+
+# Detect outliers
+df['outlier'] = (df['revenue'] - df['rolling_avg']) > 2 * df['rolling_avg'].std()
+
+# Plot the data
+sns.lineplot(data=df, x='date', y='revenue', label='Raw Data')
+sns.lineplot(data=df, x='date', y='rolling_avg', label='Rolling Average')
+sns.scatterplot(data=df[df['outlier']], x='date', y='revenue', color='red', label='Outliers')
+plt.legend()
+plt.show()
+```
+
+3. Write a Python script using the pandas and matplotlib libraries to: 1. Load a CSV named'sales.csv', 2. Calculate a 30-day rolling average of the'revenue' column, 3. Detect outliers more than two standard deviations from the mean, and 4. Plot both the raw data and the rolling average with outliers highlighted in red.
+
+```python
+# Load the libraries
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the data
+df = pd.read_csv('sales.csv')
+
+# Calculate the rolling average
+df['rolling_avg'] = df['revenue'].rolling(window=30).mean()
+
+# Detect outliers
+df['outlier'] = (df['revenue'] - df['rolling_avg']) > 2 * df['rolling_avg'].std()
+
+# Plot the data
+plt.figure(figsize=(10, 6))
+plt.plot(df['revenue'], label='Raw Data')
+plt.plot(df['rolling_avg'], label='Rolling Average')
+plt.scatter(df[df['outlier']], df['revenue'][df['outlier']], color='red', label='Outliers')
+plt.legend()
+plt.show()
+```
+
+4. Write a Python script using the pandas and seaborn libraries to: 1. Load a CSV named'sales.csv', 2. Calculate a 30-day rolling average of the'revenue' column, 3. Detect outliers more than two standard deviations from the mean, and 4. Plot both the raw data and the rolling average with outliers highlighted in red.
+
+```python
+# Load the libraries
+import pandas as pd
+import seaborn as sns
+
+# Load the data
+df = pd.read_csv('sales.csv')
+
+# Calculate the rolling average
+df['rolling_avg'] = df['revenue'].rolling(window=30).mean()
+
+# Detect outliers
+df['outlier'] = (df['revenue'] - df['rolling_avg']) > 2 * df['rolling_avg'].std()
+
+# Plot the data
+sns.lineplot(data=df, x='date', y='revenue', label='Raw Data')
+sns.lineplot(data=df, x='date', y='rolling_avg', label='Rolling Average')
+sns.scatterplot(data=df[df['outlier']], x='date', y='revenue', color='red', label='Outliers')
+plt.legend()
+plt.show()
+```
+
+5. Write a Python script using the pandas and matplotlib libraries to: 1. Load a CSV named'sales.csv', 2. Calculate a 30-day rolling average of the'revenue' column, 3. Detect outliers more than two standard deviations from the mean, and 4. Plot both the raw data and the rolling average with outliers highlighted in red.
+
+```python
+# Load the libraries
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the data
+df = pd.read_csv('sales.csv')
+
+# Calculate the rolling average
+df['rolling_avg'] = df['revenue'].rolling(window=30).mean()
+
+# Detect outliers
+df['outlier'] = (df['revenue'] - df['rolling_avg']) > 2 * df['rolling_avg'].std()
+
+# Plot the data
+plt.figure(figsize=(10, 6))
+plt.plot(df['revenue'], label='Raw Data')
+plt.plot(df['rolling_avg'], label='Rolling Average')
+plt.scatter(df[df['outlier']], df['revenue'][df['outlier']], color='red', label='Outliers')
+plt.legend()
+plt.show()
+```
+//////////////////////////////////

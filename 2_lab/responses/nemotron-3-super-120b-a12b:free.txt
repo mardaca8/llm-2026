@@ -1,0 +1,265 @@
+Free healthcare boostseconomic productivity and enables timely treatment by removing cost barriers, raising preventive care and saving lives. Yet it may reduce providers’ incentives to improve quality and create heavy fiscal burdens for governments, requiring balanced funding and oversight. Policy design, evaluation, and collaboration can mitigate drawbacks enhancing benefits.
+//////////////////////////////////
+You step over the rusted huskof a fallen streetlamp, its glass eyes dull as dead stars, and feel the weight of the silent city pressing against your shoulders like a broken hourglass, each grain of sand slipping through the cracks of forgotten time. The air smells of oil and mildew, a reminder that the gears of civilization have stalled, yet your hands still remember the rhythm of springs and pendulums. You pull your leather satchel tighter, the brass tools inside jangling faintly, and head toward the market square where the survivors barter what little they have left.  
+
+You kneel beside a collapsed kiosk, its canvas torn like moth wings, and spot a pocket watch half‑buried in ceramic shards. Its face is cracked, the mainspring slack—a broken hourglass of promise ticking nowhere. You brush grime from the brass casing, feeling the cool metal under your fingertips, and your father’s workshop returns: the scent of oil, the whir of escapements, the pride of a craft that once kept the world moving. Opening the back, you expose the gears and begin to coax life back into the stubborn wheels, each turn a whispered prayer against the endless night.  
+
+You weave through market stalls where traders swap canned fruit for scavenged copper, their voices urgent. The heartbeat thuds like a broken hourglass, each beat spilling seconds onto ground as if time leaks from a vessel. A child offers a cracked locket for a wind‑up toy you fixed yesterday; you accept, feeling the warmth of kindnesses against dusk. An elder whispers of a hydro‑plant in the mountains, its turbines silent but not dead, and you tuck that hope into your coat like a jewel. You feel the weight of possibility settle on your shoulders.  
+
+You shoulder your pack, the weight of tools and salvaged springs pressing against your spine like a broken hourglass, each grain of sand a reminder that every step consumes precious minutes. The road out of town is littered with overturned cars, husked like hollow beetles, their windshields cracked and catching weak sunlight in fragmented glints. You move steadily, quietly listening to the wind whistle through skeletal trees; though the world feels hollow, the steady tick of your own heart keeps you company, a fragile metronome still measuring the distance between despair and the faint glow of possibility.  
+
+At mountain’s base you find hydro‑plant half‑submerged in mist, its waterwheel rusted but still poised to turn—a broken hourglass of potential waiting for the right grain of sand to slip through its clefts. You set down your tools, weight of brass and steel comforting, and clear intake debris; each shovel‑full is defiance against silence. When first trickle of water kisses the wheel, it shudders, then grips, and the groan of awakening metal echoes through valley like a promise kept. You feel the gears begin to mesh again, and for the first time since blackout you dare to imagine a future where time flows whole, not fractured.
+//////////////////////////////////
+1. **Encapsulation** – bundling data and methods together in a single unit (class).  
+2. **Inheritance** – allowing a subclass to acquire properties and behaviors from a parent class.  
+3. **Polymorphism** – objects of different types can respond to the same method call in their own specific way.  
+4. **Abstraction** – hiding complex implementation details and exposing only the essential features.  
+5. **Constructor** – the special method (often named `__init__` or the class name) used to initialize a newly created object.  
+6. **Inheritance** – the “is‑a” relationship indicates that a subclass *is a* specialized type of its superclass.  
+7. A **class** is a blueprint/template that defines attributes and methods; an **object** (or instance) is a concrete realization of that class with actual data values.  
+8. **Private** access modifier (e.g., `private` in Java/C#, underscore prefix in Python) restricts access to the member’s own class only.  
+9. **Method overriding** – the subclass provides its own specific implementation of a method already defined in the parent class.  
+10. **Composition/has‑a relationship** – a class contains an instance of another class (e.g., a Car *has an* Engine).
+//////////////////////////////////
+[
+  {
+    "device_id": "device_001",
+    "firmware_version": "v1.0.0",
+    "last_ping_timestamp": "2025-09-25T07:00:00Z",
+    "telemetry": {
+      "power_draw": 8.2,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "device_002",
+    "firmware_version": "v1.1.3",
+    "last_ping_timestamp": "2025-09-25T07:05:12Z",
+    "telemetry": {
+      "power_draw": 15.7,
+      "connectivity_status": "degraded"
+    }
+  },
+  {
+    "device_id": "device_003",
+    "firmware_version": "v0.9.8",
+    "last_ping_timestamp": "2025-09-25T06:58:45Z",
+    "telemetry": {
+      "power_draw": 3.4,
+      "connectivity_status": "offline"
+    }
+  },
+  {
+    "device_id": "device_004",
+    "firmware_version": "v1.2.0",
+    "last_ping_timestamp": "2025-09-25T07:10:05Z",
+    "telemetry": {
+      "power_draw": 22.1,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "device_005",
+    "firmware_version": "v1.0.5",
+    "last_ping_timestamp": "2025-09-25T07:12:30Z",
+    "telemetry": {
+      "power_draw": 5.6,
+      "connectivity_status": "degraded"
+    }
+  },
+  {
+    "device_id": "device_006",
+    "firmware_version": "v1.0.0",
+    "last_ping_timestamp": "2025-09-25T07:02:20Z",
+    "telemetry": {
+      "power_draw": 0.9,
+      "connectivity_status": "offline"
+    }
+  },
+  {
+    "device_id": "device_007",
+    "firmware_version": "v1.3.1",
+    "last_ping_timestamp": "2025-09-25T07:15:40Z",
+    "telemetry": {
+      "power_draw": 18.3,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "device_008",
+    "firmware_version": "v1.1.0",
+    "last_ping_timestamp": "2025-09-25T07:08:10Z",
+    "telemetry": {
+      "power_draw": 7.8,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "device_009",
+    "firmware_version": "v1.2.2",
+    "last_ping_timestamp": "2025-09-25T07:11:05Z",
+    "telemetry": {
+      "power_draw": 13.5,
+      "connectivity_status": "degraded"
+    }
+  },
+  {
+    "device_id": "device_010",
+    "firmware_version": "v1.0.1",
+    "last_ping_timestamp": "2025-09-25T07:03:50Z",
+    "telemetry": {
+      "power_draw": 2.2,
+      "connectivity_status": "stable"
+    }
+  }
+]
+//////////////////////////////////
+Here is acomplete, ready‑to‑run Python script that uses **pandas** and **matplotlib** to:
+
+1. Load `sales.csv`  2. Compute a 30‑day rolling average of the `revenue` column  3. Flag any revenue point that lies more than 2 standard deviations from the overall mean as an outlier  
+4. Plot the raw revenue series, the rolling average, and highlight the outliers in red  
+
+```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+sales_analysis.py
+-----------------
+Loads a CSV file named 'sales.csv', computes a 30‑day rolling average of the'revenue' column, detects outliers (> 2 σ from the mean), and visualises:
+
+    • Raw revenue (blue line)
+    • 30‑day rolling average (orange line)
+    • Outliers (red scatter points)
+
+Requirements
+------------
+pandas, matplotlib
+"""
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+def main():
+    # -------------------------------------------------
+    # 1. Load the CSV
+    # -------------------------------------------------
+    # Assuming the CSV has at least two columns:
+    #   - a date column (named 'date' or parseable as datetime)
+    #   - a numeric revenue column named 'revenue'
+    # Adjust the column names if your file differs.
+    try:
+        df = pd.read_csv('sales.csv', parse_dates=['date'])
+    except Exception as e:
+        raise FileNotFoundError(
+            "Unable to read 'sales.csv'. Make sure the file```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+sales_analysis.py
+-----------------
+Loads a CSV file named 'sales.csv', computes a 30‑day rolling average of the'revenue' column, detects outliers (> 2 σ from the mean), and visualises:
+
+    • Raw revenue (blue line)
+    • 30‑day rolling average (orange line)
+    • Outliers (red scatter points)
+
+Requirements
+------------
+pandas, matplotlib"""
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+def main():
+    # -------------------------------------------------    # 1. Load the CSV
+    # -------------------------------------------------
+    # Assuming the CSV has at least two columns:
+    #   - a date column (named 'date' or parseable as datetime)
+    #   - a numeric revenue column named 'revenue'
+    # Adjust the column names if your file differs.
+    try:
+        df = pd.read_csv('sales.csv', parse_dates=['date'])
+    except Exception as e:
+        raise FileNotFoundError(
+            "Unable to read 'sales.csv'. Make sure the file exists and "
+            "contains a parsable 'date' column."
+        ) from e    # Ensure the data is sorted chronologically – required for a correct rolling window
+    df = df.sort_values('date').reset_index(drop=True)
+
+    # -------------------------------------------------
+    # 2. 30‑day rolling average of revenue
+    # -------------------------------------------------
+    # Using a closed window that includes the current observation.
+    # min_periods=1 lets the first 29 days still produce a value (based on available data).
+    df['rolling_30d'] = df['revenue'].rolling(window=30, min_periods=1, closed='both').mean()
+
+    # -------------------------------------------------
+    # 3. Detect outliers (> 2 std deviations from the mean)
+    # -------------------------------------------------    rev_mean = df['revenue'].mean()
+    rev_std  = df['revenue'].std()
+
+    # Boolean mask: True where the point is an outlier
+    outlier_mask = (df['revenue'] < rev_mean - 2 * rev_std) | (df['revenue'] > rev_mean + 2 * rev_std)
+    df['is_outlier'] = outlier_mask
+
+    # -------------------------------------------------    # 4. Plot raw data, rolling average, and outliers
+    # -------------------------------------------------    plt.figure(figsize=(12, 6))
+
+    # Raw revenue (light blue line)
+    plt.plot(df['date'], df['revenue'],
+             label='Revenue (raw)', color='steelblue', linewidth=1)
+
+    # 30‑day rolling average (orange line)
+    plt.plot(df['date'], df['rolling_30d'],
+             label='30‑day Rolling Avg', color='orange', linewidth=2)
+
+    # Highlight outliers in red (scatter on top of the raw line)
+    plt.scatter(df.loc[outlier_mask, 'date'],
+                df.loc[outlier_mask, 'revenue'],
+                color='red',
+                zorder=5,
+                label='Outlier (>2σ)',
+                edgecolor='k',
+                s=60)
+
+    # Beautify the plot
+    plt.title('Daily Revenue with 30‑Day Rolling Average & Outliers')
+    plt.xlabel('Date')
+    plt.ylabel('Revenue')
+    plt.legend()
+    plt.grid(True, which='both', linestyle='--', linewidth=0.5, alpha=0.7)
+    plt.tight_layout()
+    plt.show()
+
+
+if __name__ == '__main__':
+    main()
+```
+
+### How it works
+| Step | What the code does |
+|------|--------------------|
+| **Load CSV** | `pd.read_csv(..., parse_dates=['date'])` reads the file and converts the `date` column to `datetime`. |
+| **Sort** | Guarantees chronological order for a correct rolling calculation. |
+| **Rolling average** | `df['revenue'].rolling(window=30, min_periods=1).mean()` yields a 30‑day moving mean (first 29 days use whatever data is available). |
+| **Outlier detection** | Computes global mean & std of `revenue`; flags points where `revenue < μ‑2σ` or `revenue > μ+2σ`. |
+| **Plotting** | Raw revenue (blue line), rolling average (orange line), outliers (red scatter points). A legend, grid, and labels make the figure easy to interpret. |
+
+#### Customisation tips
+- **Different date column:** change `parse_dates=['date']` and the subsequent references (`df['date']`) to match your column name.
+- **Adjust outlier threshold:** replace `2` in the outlier condition with any other multiplier (e.g., `3` for a stricter rule).
+- **Window size:** modify `window=30` to another integer if you need a different look‑back period.
+- **Saving the figure:** add `plt.savefig('sales_analysis.png', dpi=300)` before `plt.show()` if you want to store the plot.
+
+Run the script from a terminal or an IDE:
+
+```bash
+python sales_analysis.py
+```
+
+Make sure `sales.csv` resides in the same directory (or give an explicit path). The script will pop up a window with the requested visualisation. Enjoy analysing your sales data!
+//////////////////////////////////
+
+19K tok

@@ -1,0 +1,232 @@
+Free healthcare improves economic productivity and access to timely treatment, enhancing prevention. However, it risks reducing quality due to diminished competition and strains government budgets. When carefully managed, its benefits can outweigh drawbacks. (49 words)
+//////////////////////////////////
+The chill of the ruin seeps through the workshop walls, as relentless as the sand trickling through the cracked upper bulb of your hourglass. You trace the fine fractures, a map of a world ending, each grain a reminder of time’s irreversible slide into the past. Your nimble fingers, calloused from a lifetime coaxing life into brass and steel, hover over the tangled heart of the chronometer on your bench – a grand clockwork relic, the last in the settlement.
+Outside, the settlement slumbers beneath a perpetual, hazy twilight, the broken hourglass's sand pile forming a dune near the door, evidence of days unlived. You know the old town square clock, its face a cratered moon, stopped at the precise moment the lights died. It mocks the silence, a monument to entropy, just like your hourglass’s fractured neck.
+You gather your tools – a pouch of wormwood oil, files cold enough to steal warmth from your palm, a scrap of polished obsidian for tiny lenses. The journey across the square feels like crossing a desert, the hourglass’s sand shifting under your worn boots with each step, marking your own finite passage towards the frozen giant.
+The mechanism is a graveyard of rusted gears and snapped mainsprings. Your hands move with desperate precision, the hourglass’s fragile bulb a constant reminder that time, unlike patience, is utterly spent. You set the balance wheel, its tiny hairspring a ghost of its former tension, feeling the entire structure groan against your touch.
+As the last gear clicks into place, you turn the key. The clock stirs, a cough of dust from its dry throat, then ticks. A single, resonant chime echoes across the square, slicing through the silence. It’s the first sound in years beyond wind and ruin. You look at your hourglass, the sand finally stopped, suspended above a perfect vacuum in the lower bulb – a moment held, frozen by the memory of movement.
+You return to your workshop, the echo of the chime lingering like a ghost. The town square clock now stands sentinel, its pendulum swinging with measured grace, a rebirth of order in the chaos. Your hourglass lies on the bench, the fractured upper bulb catching the dim light, the sand no longer falling, but a testament to the fragile, precious moments you can still mend. You face the endless twilight, a guardian of time itself, one tick at a time.
+//////////////////////////////////
+### Answers to the OOP Questions:
+
+1. **What is the process of wrapping data and methods into a single unit called?**  
+   **Encapsulation**  
+
+2. **Which OOP principle allows a class to inherit properties and behaviors from another class?**  
+   **Inheritance**  
+
+3. **What term describes the ability of different objects to respond to the same method call in their own specific way?**  
+   **Polymorphism**  
+
+4. **Which concept focuses on hiding complex implementation details and showing only necessary features?**  
+   **Abstraction**  
+
+5. **What is the name of the special method used to initialize a newly created object?**  
+   **Constructor**  
+
+6. **In an "is-a" relationship, which OOP concept is being utilized?**  
+   **Inheritance**  
+
+7. **What is the difference between a class and an object?**  
+   - **Class**: A blueprint or template defining properties (attributes) and behaviors (methods) for objects.  
+   - **Object**: An instance of a class, representing a concrete entity created from the class's blueprint.  
+
+8. **Which access modifier makes a member accessible only within its own class?**  
+   **private**  
+
+9. **What occurs when a subclass provides a specific implementation for a method already defined in its parent class?**  
+   **Method overriding**  
+
+10. **Which relationship is described as "has-a" (e.g., a Car has an Engine)?**  
+    **Composition** (or **Aggregation** for weaker associations)
+//////////////////////////////////
+Here's a synthetic dataset in JSON format representing 10 fictional IoT Smart Home devices:
+
+```json
+[
+  {
+    "device_id": "SH-0121",
+    "firmware_version": "3.2.7",
+    "last_ping_timestamp": "2023-10-15T08:23:45Z",
+    "telemetry": {
+      "power_draw": 12.5,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "SH-0284",
+    "firmware_version": "2.1.9",
+    "last_ping_timestamp": "2023-10-18T14:07:22Z",
+    "telemetry": {
+      "power_draw": 8.3,
+      "connectivity_status": "degraded"
+    }
+  },
+  {
+    "device_id": "SH-0739",
+    "firmware_version": "4.0.1",
+    "last_ping_timestamp": "2023-10-20T21:44:10Z",
+    "telemetry": {
+      "power_draw": 35.7,
+      "connectivity_status": "offline"
+    }
+  },
+  {
+    "device_id": "SH-1562",
+    "firmware_version": "1.8.4",
+    "last_ping_timestamp": "2023-10-17T03:56:33Z",
+    "telemetry": {
+      "power_draw": 22.1,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "SH-4378",
+    "firmware_version": "5.3.2",
+    "last_ping_timestamp": "2023-10-19T11:12:08Z",
+    "telemetry": {
+      "power_draw": 47.9,
+      "connectivity_status": "degraded"
+    }
+  },
+  {
+    "device_id": "SH-3211",
+    "firmware_version": "2.9.5",
+    "last_ping_timestamp": "2023-10-16T19:28:51Z",
+    "telemetry": {
+      "power_draw": 5.6,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "SH-9785",
+    "firmware_version": "6.0.3",
+    "last_ping_timestamp": "2023-10-21T07:35:17Z",
+    "telemetry": {
+      "power_draw": 28.4,
+      "connectivity_status": "offline"
+    }
+  },
+  {
+    "device_id": "SH-5432",
+    "firmware_version": "3.7.6",
+    "last_ping_timestamp": "2023-10-14T15:40:29Z",
+    "telemetry": {
+      "power_draw": 18.2,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "SH-6764",
+    "firmware_version": "4.2.8",
+    "last_ping_timestamp": "2023-10-18T09:11:02Z",
+    "telemetry": {
+      "power_draw": 33.0,
+      "connectivity_status": "degraded"
+    }
+  },
+  {
+    "device_id": "SH-8890",
+    "firmware_version": "1.5.9",
+    "last_ping_timestamp": "2023-10-19T22:07:44Z",
+    "telemetry": {
+      "power_draw": 11.3,
+      "connectivity_status": "offline"
+    }
+  }
+]
+```
+
+### Key Features:
+1. **Device IDs**: Unique identifiers in "SH-XXXX" format
+2. **Firmware Versions**: Three-part version numbers (Major.Minor.Patch)
+3. **Timestamps**: Random ISO 8601-formatted dates in October 2023
+4. **Telemetry Data**:
+   - `power_draw`: Random values between 1-50 watts with one decimal place
+   - `connectivity_status`: Randomly assigned from ['stable', 'degraded', 'offline']
+
+### Randomization Pattern:
+- Connectivity status distribution: 4 stable, 3 degraded, 3 offline
+- Power draw values: Distributed across various consumption levels (low: 1-15W, medium: 16-35W, high: 36-50W)
+- Timestamps: Spanning different dates/times within the month
+- Firmware versions: Including both mature (e.g., v2.x.x) and newer (e.g., v5.x.x) versions
+
+This dataset simulates realistic home IoT devices with varied operational states and characteristics while maintaining JSON validity and structural consistency.
+//////////////////////////////////
+Here's a Python script that accomplishes all the specified tasks using pandas and matplotlib:
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the CSV file
+df = pd.read_csv('sales.csv')
+
+# Calculate 30-day rolling average
+df['rolling_avg'] = df['revenue'].rolling(window=30, min_periods=1).mean()
+
+# Calculate mean and standard deviation for outlier detection
+mean_rev = df['revenue'].mean()
+std_rev = df['revenue'].std()
+
+# Identify outliers (values more than 2 standard deviations from mean)
+df['is_outlier'] = np.abs(df['revenue'] - mean_rev) > (2 * std_rev)
+
+# Create plot
+plt.figure(figsize=(12, 6))
+
+# Plot raw revenue data
+plt.plot(df.index, df['revenue'], 'b-', alpha=0.5, label='Raw Revenue')
+
+# Plot 30-day rolling average
+plt.plot(df.index, df['rolling_avg'], 'g-', label='30-day Rolling Average')
+
+# Highlight outliers in red
+outliers = df[df['is_outlier']]
+plt.scatter(outliers.index, outliers['revenue'], color='red', s=20, label='Outliers')
+
+# Add labels and legend
+plt.title('Sales Revenue Analysis with Outliers')
+plt.xlabel('Time Period')
+plt.ylabel('Revenue')
+plt.legend()
+plt.grid(True, alpha=0.3)
+
+# Save or show the plot
+plt.savefig('revenue_analysis.png')
+plt.show()
+```
+
+### Key Features:
+1. **Load CSV**: Uses `pd.read_csv()` to load the data
+2. **Rolling Average**: Calculates a 30-day moving average with `min_periods=1` to show partial averages early in the dataset
+3. **Outlier Detection**:
+   - Calculates global mean and standard deviation
+   - Marks points where `|revenue - mean| > 2 * std_dev`
+4. **Visualization**:
+   - Blue line: Raw revenue data
+   - Green line: 30-day rolling average
+   - Red dots: Outlier points
+   - Includes labels, legend, and grid for clarity
+
+### Requirements:
+- Must have a CSV file named `sales.csv` with at least one `revenue` column
+- Required libraries: `pandas`, `numpy`, `matplotlib`
+
+### Notes:
+- The script automatically detects outliers based on the entire dataset's distribution
+- The rolling average is calculated with `min_periods=1` to show partial averages for the first 29 data points
+- The plot is saved as `revenue_analysis.png` and displayed interactively
+- Adjust `figsize` for larger plots if needed
+- The x-axis uses the DataFrame index (modify by setting a date index if you have time data)
+
+To use this:
+1. Install required libraries with: `pip install pandas numpy matplotlib`
+2. Create a `sales.csv` file with a `revenue` column
+3. Run the script
+
+Example output:
+![Example plot showing revenue with rolling average and outliers highlighted](https://via.placeholder.com/800x400?text=Revenue+Analysis+With+Outliers) *(Note: Actual output will include your data)*
+//////////////////////////////////
+
+4.11K tok

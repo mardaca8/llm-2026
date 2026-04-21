@@ -1,0 +1,258 @@
+Free healthcare boosts productivity, enables early disease detection, and improves access to doctors, enhancing public health. Yet, without competitive pressure, quality may decline, and the fiscal burden on government could divert resources from other sectors, necessitating balanced budgeting and careful monitoring to maintain standards and ensure equity for all citizens.
+//////////////////////////////////
+You step out of your workshop into a gray dawn, the city silent without the hum of electricity. The only sound is wind moving through rusted metal, and the dust on your workbench lies like a shroud over the dead. On the shelf, a broken hourglass sits, its cracked glass spilling sand in a thin, relentless stream—like time leaking from a world that no longer keeps count.  
+
+You wind the brass gears of an old pocket watch, your fingers remembering the rhythm that electricity once provided. The ticking is a fragile heartbeat in the gloom, and you think of the broken hourglass perched on your bench: its glass shards scatter time like the debris of a collapsed tower, each grain a reminder that you are the only one who can still measure the passing of days.  
+
+You walk the cracked streets, past the skeletons of neon signs that will never glow again. A group of survivors huddles around a fire, their eyes hollowed by hunger. You offer to mend their only mechanical alarm, and as you tighten a spring, you hear the broken hourglass in your mind: its jagged rim is a fissure in the flow of hours, and you feel the weight of every grain you can’t afford to lose.  
+
+You return to your workshop as night falls, the darkness broken only by the flicker of a candle. The silence presses down like a lid, but you hear the faint tick of a regulator on the wall. In the dim light, the broken hourglass on the bench seems to sigh, its sand spilling in a slow, irregular pattern—much like the uneven pulse of hope that flickers in the ruins of the old world.  
+
+Before dawn, a band of raiders crashes through the alley, their faces painted with ash. They demand fuel you don’t have, so you brandish a clock tower key like a sword. As you turn the gears, the mechanism groans, and the broken hourglass on your belt jingles, its shattered glass clinking like a warning—each fragment a bell that tells them time can be a weapon or a mercy.  
+
+At the city’s heart, a towering clock stand frozen, its hands stuck at the moment the world went dark. You climb the rusted ladder, oiling each rusty gear until the pendulum begins to sway. As the first faint chime echoes across the empty plaza, you see the broken hourglass you placed at the base—its two chambers now aligned, sand trickling in a measured stream, as if the very earth is learning to count again.  
+
+You descend as sunrise paints the ruined skyline in rust and amber, and for the first time in years you hear the city breathe. The broken hourglass on your workbench remains cracked, but its steady drip reminds you that even without electricity you can keep seconds from slipping away—like a heart that refuses to stop. You are the keeper of the ticking
+//////////////////////////////////
+1. **Encapsulation** – the bundling of data (attributes) and methods (functions) into a single unit (a class).  
+
+2. **Inheritance** – the OOP principle that lets a class (subclass) acquire the properties and behaviors of another class (superclass).  
+
+3. **Polymorphism** – the ability of different objects to respond to the same method call in ways specific to their own type.  
+
+4. **Abstraction** – hiding complex implementation details and exposing only the essential features of an object.  
+
+5. **Constructor** – a special method that is called automatically when a new object (instance) is created to initialize its state.  
+
+6. **Inheritance** – the “is‑a” relationship (e.g., a Dog is‑a Animal) is realized through inheritance.  
+
+7. A **class** is a blueprint or template that defines the attributes and methods that objects of that type will have.  
+   An **object** (instance) is a concrete entity created from that blueprint, having its own memory for the attributes and able to execute the methods.  
+
+8. **Private** – the access modifier that restricts a member so it can be accessed only within the class that declares it.  
+
+9. **Method overriding** – when a subclass provides its own specific implementation of a method already defined in its parent class.  
+
+10. **Composition** (or **aggregation**) – the “has‑a” relationship where one class contains (or is composed of) objects of another class (e.g., a Car **has‑a** Engine).
+//////////////////////////////////
+```json
+[
+  {
+    "device_id": "SH-001",
+    "firmware_version": "v1.2.0",
+    "last_ping_timestamp": "2025-09-25T10:12:30Z",
+    "telemetry": {
+      "power_draw": 5.5,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "SH-002",
+    "firmware_version": "v1.1.5",
+    "last_ping_timestamp": "2025-09-25T09:45:12Z",
+    "telemetry": {
+      "power_draw": 120.0,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "SH-003",
+    "firmware_version": "v2.0.3",
+    "last_ping_timestamp": "2025-09-25T08:20:55Z",
+    "telemetry": {
+      "power_draw": 0.8,
+      "connectivity_status": "degraded"
+    }
+  },
+  {
+    "device_id": "SH-004",
+    "firmware_version": "v1.3.2",
+    "last_ping_timestamp": "2025-09-25T07:55:00Z",
+    "telemetry": {
+      "power_draw": 0.0,
+      "connectivity_status": "offline"
+    }
+  },
+  {
+    "device_id": "SH-005",
+    "firmware_version": "v2.1.1",
+    "last_ping_timestamp": "2025-09-25T11:30:22Z",
+    "telemetry": {
+      "power_draw": 45.2,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "SH-006",
+    "firmware_version": "v1.0.9",
+    "last_ping_timestamp": "2025-09-25T10:05:18Z",
+    "telemetry": {
+      "power_draw": 2.4,
+      "connectivity_status": "degraded"
+    }
+  },
+  {
+    "device_id": "SH-007",
+    "firmware_version": "v2.2.0",
+    "last_ping_timestamp": "2025-09-25T09:10:09Z",
+    "telemetry": {
+      "power_draw": 150.5,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "SH-008",
+    "firmware_version": "v1.5.4",
+    "last_ping_timestamp": "2025-09-25T08:40:33Z",
+    "telemetry": {
+      "power_draw": 0.0,
+      "connectivity_status": "offline"
+    }
+  },
+  {
+    "device_id": "SH-009",
+    "firmware_version": "v2.0.1",
+    "last_ping_timestamp": "2025-09-25T07:25:45Z",
+    "telemetry": {
+      "power_draw": 8.7,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "SH-010",
+    "firmware_version": "v1.2.3",
+    "last_ping_timestamp": "2025-09-25T06:50:12Z",
+    "telemetry": {
+      "power_draw": 1.2,
+      "connectivity_status": "degraded"
+    }
+  }
+]
+```
+//////////////////////////////////
+Here is a complete, ready‑to‑run Python script that does exactly what you asked for.  
+It uses **pandas** to load the CSV, compute the rolling average and flag the outliers, and **matplotlib** to visualise the data.
+
+```python
+#!/usr/bin/env python3
+"""
+sales_analysis.py
+-----------------
+1. Load a CSV called 'sales.csv'.
+2. Compute a 30‑day rolling average of the 'revenue' column.
+3. Flag any revenue that lies more than two standard deviations away from the mean.
+4. Plot the raw revenue, the rolling average, and the outliers (highlighted in red).
+
+The script assumes the CSV has at least two columns:
+    * a date/time column named 'date' (or any column you can use as the index)
+    * a numeric column named 'revenue'
+
+If the date column has a different name, just change the `parse_dates` argument
+or set the index manually before running the script.
+"""
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+
+def main() -> None:
+    # -------------------------------------------------------------------------
+    # 1. Load the CSV
+    # -------------------------------------------------------------------------
+    # The CSV is expected in the current working directory.
+    #If it lives elsewhere, adjust the path accordingly.
+    try:
+        # Try to parse a column called 'date' automatically.
+        df = pd.read_csv("sales.csv", parse_dates=["date"])
+    except FileNotFoundError:
+        raise FileNotFoundError("Could not find 'sales.csv' in the current directory.")
+    except ValueError:
+        # If the date column is named differently (or you don't have one),
+        # just read it without parse_dates – we will treat rows as sequential days.
+        df = pd.read_csv("sales.csv")
+
+    # Ensure we have a 'revenue' column.
+    if "revenue" not in df.columns:
+        raise ValueError("The CSV must contain a column named 'revenue'.")
+
+    # Optional: make the date the index (handy for time‑series rolling windows)
+    if "date" in df.columns:
+        df = df.set_index("date")
+    # If there is no explicit date column, the row number will be used as the index.
+
+    # -------------------------------------------------------------------------
+    # 2. 30‑day rolling average of 'revenue'
+    # -------------------------------------------------------------------------
+    # min_periods=1 ensures we get a value even when fewer than 30 rows are available.
+    df["rolling_avg"] = df["revenue"].rolling(window=30, min_periods=1).mean()
+
+    # -------------------------------------------------------------------------
+    # 3. Outlier detection (>2 σ from the mean)
+    # -------------------------------------------------------------------------
+    mean_rev = df["revenue"].mean()
+    std_rev = df["revenue"].std()
+    lower_bound = mean_rev - 2 * std_rev
+    upper_bound = mean_rev + 2 * std_rev
+
+    # Flag points that lie outside the ±2σ band.
+    df["outlier"] = (df["revenue"] < lower_bound) | (df["revenue"] > upper_bound)
+
+    # -------------------------------------------------------------------------
+    # 4. Plot raw data, rolling average, and outliers
+    # -------------------------------------------------------------------------
+    plt.figure(figsize=(12, 6))
+
+    # Raw revenue (blue line)
+    plt.plot(df.index, df["revenue"], label="Revenue", color="blue", alpha=0.6)
+
+    # 30‑day rolling average (green line, slightly thicker)
+    plt.plot(df.index, df["rolling_avg"], label="30‑day Rolling Avg",
+             color="green", linewidth=2)
+
+    # Outliers – scatter plot in red
+    outliers = df[df["outlier"]]
+    plt.scatter(outliers.index, outliers["revenue"],
+                color="red", s=30, label="Outlier (>2σ)", zorder=5)
+
+    # Formatting
+    plt.title("Revenue and 30‑Day Rolling Average with Outliers Highlighted")
+    # Use a friendly x‑label depending on the index type
+    xlabel = "Date" if isinstance(df.index, pd.DatetimeIndex) else "Day Index"
+    plt.xlabel(xlabel)
+    plt.ylabel("Revenue")
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+    plt.tight_layout()
+
+    # Show the plot (or save it if you prefer)
+    plt.show()
+    # Uncomment the following line to save the figure to a file:
+    # plt.savefig("sales_analysis.png", dpi=150)
+
+
+if __name__ == "__main__":
+    main()
+```
+
+### How it works
+| Step | What the code does |
+|------|--------------------|
+| **Load CSV** | `pd.read_csv` pulls the data. If you have a column called `'date'` it is parsed as a datetime; otherwise the rows are just indexed sequentially. |
+| **Rolling average** | `df['revenue'].rolling(window=30, min_periods=1).mean()` computes a moving‑average smoothing over the last 30 observations. |
+| **Outlier detection** | We compute the overall mean and standard deviation of the revenue, then flag any observation that lies more than **2 × std** above or below the mean. |
+| **Plotting** | – Blue line = raw revenue<br>– Green line = 30‑day rolling average<br>– Red circles = points identified as outliers |
+
+### Running the script
+1. Ensure you have the required packages:  
+   ```bash
+   pip install pandas matplotlib
+   ```
+2. Place your `sales.csv` in the same folder (or adjust the path inside the script).  
+3. Execute:  
+   ```bash
+   python sales_analysis.py
+   ```
+
+A window should pop up displaying the chart; you can also uncomment the `plt.savefig` line to write the figure to a PNG file. Enjoy!
+
+20K tok

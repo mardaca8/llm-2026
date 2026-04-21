@@ -1,0 +1,176 @@
+Free healthcare offers economic benefits by enhancing productivity and enabling timely treatment, increasing illness prevention and saving lives. However, it can reduce medical competition, potentially lowering service quality, and strain government budgets. Governments must carefully weigh these factors to develop effective strategies for public wellbeing.
+//////////////////////////////////
+You find yourself in a world drained of its electric pulse, a hollow hum where once the buzz of life vibrated through cities. The remnants of buildings stand like skeletal fingers against the horizon, pointing accusatively at the uncaring sky. As a clockmaker in this lifeless expanse, you are a keeper of a dying craft, a cobbler of moments. Each tick and tock you craft is a defiant stand against the stillness, a rebellion against time’s swift decay. Yet, in every meticulous repair, you see the sands of a broken hourglass, slipping through your fingers as you struggle to restore what was lost. 
+
+You walk through the old town square, a graveyard of progress, where gears that once turned now lie rusted. The people who remain are shells, haunting the edges of what once was. They come to you with watches that breathe their last, seeking an illusion of life in their hands. With each repair, you realize you are merely delaying the inevitable. Like the broken hourglass, the balance is gone; the time has been measured and squandered, and only the echo of its fall remains. Each tick resonates like a heartbeat, a reminder that life is fleeting, measured not by hours, but by the moments we can grasp before they slip away into oblivion.
+
+Inside your workshop, the air is thick with the scent of oil and metal, a sanctuary where you create a semblance of order. The tools are an extension of your hands, each one a lifeline to a past that slips further from memory. As you work, the universe seems to hold its breath, waiting for you to mend the fabric of time. Yet you know the truth; you are but a guardian of entropy, a witness to the slow surrender to chaos. The hourglass is broken, its sands scattered, like the remnants of civilization you can only observe, never restore.
+
+One evening, a traveler arrives at your door, carrying a timepiece older than the ruins that surround you. His eyes gleam with desperation, a plea for salvation carried in the fragile metal and glass he holds. You take it in your hands, recognizing the truth: it is more than a watch; it is a relic of a time before the end, a memory of when the world was whole. As you set to work, you feel the weight of history, the burden of the past pressing down. Like the broken hourglass, you know this timepiece too will cease to turn, but in that moment, you grant it a fleeting eternity, a pause in the relentless march of time.
+
+The traveler leaves with a promise of gratitude and a repaired watch. Yet, as you close your shop for the night, you see the truth: time is no longer a cycle but a line reaching endlessly towards the dark. You are alone with your gears and springs, a clockmaker in a world without a future, crafting moments from the shadows of what once was. Each repair is a whisper of defiance against the quiet, a last stand for an order that cannot be reclaimed. The hourglass is shattered, forever marooned on a timeline where only you count the minutes, and with each tick, you accept the inevitability of an ending no clock can measure.
+//////////////////////////////////
+1. Encapsulation wraps data and methods within a single unit, typically a class, to structure related elements together.
+
+2. Inheritance allows a class to take on properties and behaviors from another class.
+
+3. Polymorphism is the ability for different objects to respond to the same method call in their own specific way.
+
+4. Abstraction focuses on hiding complex implementation details and showing only the essential features.
+
+5. A constructor is the special method used to initialize a newly created object.
+
+6. The "is-a" relationship utilizes inheritance.
+
+7. A class is a blueprint or template defining attributes and behaviors, while an object is a specific instance created from that class.
+
+8. The private access modifier makes a member accessible only within its own class.
+
+9. Overriding occurs when a subclass provides a specific implementation for a method already defined in its parent class.
+
+10. Composition describes the "has-a" relationship, such as a Car has an Engine.
+//////////////////////////////////
+```json
+[
+    {
+        "device_id": "SH-001",
+        "firmware_version": "1.2.4",
+        "last_ping_timestamp": "2024-04-12T14:33:22Z",
+        "telemetry": {
+            "power_draw": 45.2,
+            "connectivity_status": "stable"
+        }
+    },
+    {
+        "device_id": "SH-002",
+        "firmware_version": "1.2.4",
+        "last_ping_timestamp": "2024-04-12T14:34:10Z",
+        "telemetry": {
+            "power_draw": 67.8,
+            "connectivity_status": "stable"
+        }
+    },
+    {
+        "device_id": "SH-003",
+        "firmware_version": "1.2.4",
+        "last_ping_timestamp": "2024-04-12T14:32:50Z",
+        "telemetry": {
+            "power_draw": 0.0,
+            "connectivity_status": "offline"
+        }
+    },
+    {
+        "device_id": "SH-004",
+        "firmware_version": "1.2.4",
+        "last_ping_timestamp": "2024-04-12T14:33:46Z",
+        "telemetry": {
+            "power_draw": 23.1,
+            "connectivity_status": "degraded"
+        }
+    },
+    {
+        "device_id": "SH-005",
+        "firmware_version": "1.2.4",
+        "last_ping_timestamp": "2024-04-12T14:34:05Z",
+        "telemetry": {
+            "power_draw": 38.9,
+            "connectivity_status": "stable"
+        }
+    },
+    {
+        "device_id": "SH-006",
+        "firmware_version": "1.3.0",
+        "last_ping_timestamp": "2024-04-12T14:33:15Z",
+        "telemetry": {
+            "power_draw": 51.4,
+            "connectivity_status": "degraded"
+        }
+    },
+    {
+        "device_id": "SH-007",
+        "firmware_version": "1.2.4",
+        "last_ping_timestamp": "2024-04-12T14:32:30Z",
+        "telemetry": {
+            "power_draw": 12.7,
+            "connectivity_status": "stable"
+        }
+    },
+    {
+        "device_id": "SH-008",
+        "firmware_version": "1.2.4",
+        "last_ping_timestamp": "2024-04-12T14:34:00Z",
+        "telemetry": {
+            "power_draw": 0.0,
+            "connectivity_status": "offline"
+        }
+    },
+    {
+        "device_id": "SH-009",
+        "firmware_version": "1.2.4",
+        "last_ping_timestamp": "2024-04-12T14:33:08Z",
+        "telemetry": {
+            "power_draw": 29.3,
+            "connectivity_status": "degraded"
+        }
+    },
+    {
+        "device_id": "SH-010",
+        "firmware_version": "1.3.0",
+        "last_ping_timestamp": "2024-04-12T14:33:55Z",
+        "telemetry": {
+            "power_draw": 76.0,
+            "connectivity_status": "stable"
+        }
+    }
+]
+```
+//////////////////////////////////
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Load the CSV file
+df = pd.read_csv('sales.csv')
+
+# Ensure date column is datetime format and sort by date
+df['date'] = pd.to_datetime(df['date'])
+df = df.sort_values('date')
+
+# Calculate 30-day rolling average of revenue
+df['rolling_avg'] = df['revenue'].rolling(window=30, min_periods=1).mean()
+
+# Calculate outliers beyond 2 standard deviations
+mean_revenue = df['revenue'].mean()
+std_revenue = df['revenue'].std()
+df['outlier'] = (np.abs(df['revenue'] - mean_revenue) > 2 * std_revenue)
+
+# Create the plot
+plt.figure(figsize=(14, 8))
+
+# Plot raw revenue data
+plt.plot(df['date'], df['revenue'], label='Revenue', alpha=0.5, color='#1f77b4')
+
+# Plot rolling average
+plt.plot(df['date'], df['rolling_avg'], label='30-Day Rolling Average', 
+         color='#ff7f0e', linewidth=2)
+
+# Highlight outliers
+outliers = df[df['outlier']]
+plt.scatter(outliers['date'], outliers['revenue'], color='red', 
+            label='Outliers (>2 std)', s=80, zorder=5, edgecolors='black')
+
+# Formatting
+plt.xlabel('Date')
+plt.ylabel('Revenue')
+plt.title('Revenue with 30-Day Rolling Average (Outliers in Red)')
+plt.legend()
+plt.grid(True, alpha=0.3)
+plt.tight_layout()
+
+# Show plot
+plt.show()
+```
+//////////////////////////////////
+
+3.06K tok

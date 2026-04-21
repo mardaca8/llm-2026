@@ -1,0 +1,242 @@
+Free healthcare improves economic productivity and equitable access to treatment, potentially increasing illness prevention. However, it may reduce medical provider competition, risking treatment quality decline, and imposes significant budgetary strain on governments. Careful planning is essential to balance these advantages and disadvantages for sustainable citizen wellbeing.
+//////////////////////////////////
+You stand in your cluttered workshop, surrounded by clocks that tick and chime in a world without power. The air smells of oil and dust. Outside, the ruins stretch under a gray sky. You think of the broken hourglass that was society—its glass shattered, sands of progress spilled and lost forever. Your hands, calloused from years of turning screws, now coax life into brass and steel. Each clock you repair is a defiance against the stillness, a way to capture minutes that the apocalypse tried to erase.
+
+A knock echoes through the empty street. It’s a woman, her face lined with hunger and fear. She places a silver pocket watch on your table; its crystal is cracked, hands stopped at 3:17—the moment the lights went out, she says. Her voice trembles like sand through a broken hourglass, each word a grain slipping away. She needs time to find water, to barter, to live. You nod, taking the watch, feeling the weight of her desperation. In your mind, the hourglass of her life leaks sand faster than you can repair.
+
+As you disassemble the watch, memories flood back. The blackout wasn’t sudden; it was a slow drain, like an hourglass losing its sand grain by grain. First, the hum faded, then the screens went dark, and finally, the silence settled—a broken hourglass with no top or bottom, just endless fall. You were a horologist then; now you’re a time-keeper in a world that stopped counting. The gears in your hands are cold, but they remember the warmth of a powered age.
+
+You clean each component with a precision born of habit. The mainspring is coiled tight, ready to release its stored hours. But there’s a crack in the balance wheel—a metaphor for the broken hourglass of the old world. Even if you fix it, the rhythm will be off, time will stutter. You solder a new staff, your breath fogging in the chill. Every repair is an attempt to glue the glass of that hourglass back together, knowing fine sand will still find its way through invisible fractures.
+
+Finally, the watch ticks. It’s a soft, steady beat that fills the workshop with hope. The woman’s eyes widen as she hears it—a sound like rain in a desert. But then you notice the second hand jerking, uneven. It’s a broken hourglass working imperfectly; time flows, but in spasms. You hand it back, warning her it might not last. She smiles, a grimace of gratitude. “Any time is better than no time,” she says, and leaves. You stare at the next broken clock, wondering if all time now is just sand slipping through cracks.
+
+Night falls. You light a candle, its flame dancing on the walls lined with dormant clocks. You think of your own life—a series of broken hourglasses. The one with your wife’s memory, the one with your lost skills, the one with the future you never planned. Here, in the dark, you wind your own pocket watch, the one that still keeps true time. But even that feels like an illusion. In a world without electricity, time is no longer a river but a collection of shattered hourglasses, each fragment telling a different story of what was and what might have been. You sleep to the sound of ticking, a lullaby for the end of everything.
+//////////////////////////////////
+Here are the answers to your questions:
+
+1. **Encapsulation**  
+2. **Inheritance**  
+3. **Polymorphism**  
+4. **Abstraction**  
+5. **Constructor**  
+6. **Inheritance**  
+7. A **class** is a blueprint or template that defines properties and methods; an **object** is a concrete instance created from that class.  
+8. **Private**  
+9. **Method overriding**  
+10. **Association** (specifically, a form of association such as **composition** or **aggregation**, implying ownership).
+//////////////////////////////////
+```json
+[
+  {
+    "device_id": "smart_thermostat_001",
+    "firmware_version": "2.1.4",
+    "last_ping_timestamp": "2024-01-15T08:23:17Z",
+    "telemetry": {
+      "power_draw": 12.7,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "smart_lock_002",
+    "firmware_version": "1.3.0",
+    "last_ping_timestamp": "2024-01-15T07:45:03Z",
+    "telemetry": {
+      "power_draw": 2.4,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "motion_sensor_003",
+    "firmware_version": "3.0.2",
+    "last_ping_timestamp": "2024-01-15T06:12:49Z",
+    "telemetry": {
+      "power_draw": 0.8,
+      "connectivity_status": "degraded"
+    }
+  },
+  {
+    "device_id": "smart_plug_004",
+    "firmware_version": "1.5.1",
+    "last_ping_timestamp": "2024-01-15T04:33:22Z",
+    "telemetry": {
+      "power_draw": 45.6,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "security_cam_005",
+    "firmware_version": "4.2.0",
+    "last_ping_timestamp": "2024-01-15T02:17:55Z",
+    "telemetry": {
+      "power_draw": 18.9,
+      "connectivity_status": "offline"
+    }
+  },
+  {
+    "device_id": "smart_bulb_006",
+    "firmware_version": "2.0.3",
+    "last_ping_timestamp": "2024-01-15T09:05:41Z",
+    "telemetry": {
+      "power_draw": 9.2,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "leak_detector_007",
+    "firmware_version": "1.1.5",
+    "last_ping_timestamp": "2024-01-14T23:50:18Z",
+    "telemetry": {
+      "power_draw": 0.5,
+      "connectivity_status": "degraded"
+    }
+  },
+  {
+    "device_id": "smart_vent_008",
+    "firmware_version": "2.3.1",
+    "last_ping_timestamp": "2024-01-15T01:22:09Z",
+    "telemetry": {
+      "power_draw": 6.8,
+      "connectivity_status": "stable"
+    }
+  },
+  {
+    "device_id": "air_quality_009",
+    "firmware_version": "1.0.9",
+    "last_ping_timestamp": "2024-01-15T05:44:36Z",
+    "telemetry": {
+      "power_draw": 4.3,
+      "connectivity_status": "offline"
+    }
+  },
+  {
+    "device_id": "smart_fridge_010",
+    "firmware_version": "5.1.2",
+    "last_ping_timestamp": "2024-01-15T10:15:00Z",
+    "telemetry": {
+      "power_draw": 87.4,
+      "connectivity_status": "stable"
+    }
+  }
+]
+```
+//////////////////////////////////
+Here's a Python script that fulfills all your requirements:
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# 1. Load the CSV file
+df = pd.read_csv('sales.csv', parse_dates=['date'], index_col='date')
+
+# Ensure data is sorted by date for rolling calculations
+df.sort_index(inplace=True)
+
+# 2. Calculate 30-day rolling average
+df['rolling_avg'] = df['revenue'].rolling('30D', min_periods=1).mean()
+
+# 3. Detect outliers (more than 2 std from mean)
+mean_revenue = df['revenue'].mean()
+std_revenue = df['revenue'].std()
+outlier_threshold = 2 * std_revenue
+
+# Create boolean mask for outliers
+df['is_outlier'] = (df['revenue'] - mean_revenue).abs() > outlier_threshold
+
+# 4. Plot the results
+plt.figure(figsize=(12, 6))
+
+# Plot raw revenue
+plt.plot(df.index, df['revenue'], 
+         label='Raw Revenue', 
+         color='blue', 
+         linewidth=1, 
+         alpha=0.7)
+
+# Plot rolling average
+plt.plot(df.index, df['rolling_avg'], 
+         label='30-Day Rolling Average', 
+         color='green', 
+         linewidth=2)
+
+# Highlight outliers in red
+outliers = df[df['is_outlier']]
+plt.scatter(outliers.index, outliers['revenue'], 
+            color='red', 
+            s=50, 
+            zorder=5, 
+            label='Outliers',
+            edgecolors='black')
+
+# Add labels and formatting
+plt.title('Revenue Analysis with 30-Day Rolling Average and Outliers', fontsize=14)
+plt.xlabel('Date', fontsize=12)
+plt.ylabel('Revenue', fontsize=12)
+plt.legend()
+plt.grid(True, alpha=0.3)
+plt.tight_layout()
+
+# Show statistics
+print(f"Total data points: {len(df)}")
+print(f"Outliers detected: {len(outliers)}")
+print(f"Mean revenue: {mean_revenue:,.2f}")
+print(f"Standard deviation: {std_revenue:,.2f}")
+print(f"Outlier threshold: ±{outlier_threshold:,.2f}")
+
+plt.show()
+```
+
+## Key Features:
+
+1. **Data Loading**: 
+   - Automatically parses the 'date' column as datetime and sets it as index
+   - Sorts data chronologically (essential for time-based rolling windows)
+
+2. **Rolling Average**:
+   - Uses `rolling('30D')` for a true 30-day calendar window (not just 30 rows)
+   - `min_periods=1` ensures calculation starts from first available data point
+
+3. **Outlier Detection**:
+   - Calculates overall mean and standard deviation of the entire revenue column
+   - Flags points where absolute deviation > 2 standard deviations
+   - Stores outlier flags in a new column for easy filtering
+
+4. **Visualization**:
+   - Raw revenue shown as thin blue line
+   - Rolling average as thick green line
+   - Outliers highlighted as large red dots with black edges
+   - Includes grid, legend, and proper labeling
+   - Displays summary statistics in console
+
+## Important Notes:
+
+1. **CSV Format Requirements**:
+   - Must contain columns named `date` (datetime format) and `revenue` (numeric)
+   - Example CSV structure:
+     ```
+     date,revenue,other_columns...
+     2024-01-01,1500,...
+     2024-01-02,1800,...
+     ```
+
+2. **Time Windows**:
+   - `'30D'` means calendar days (30 days), not 30 business days
+   - Requires pandas 0.19+ for offset-based rolling windows
+
+3. **Outlier Definition**:
+   - Uses **global** mean/std (entire dataset), not rolling statistics
+   - For time-series with trends, consider using rolling statistics instead:
+     ```python
+     # Alternative: rolling-based outlier detection
+     rolling_mean = df['revenue'].rolling('30D').mean()
+     rolling_std = df['revenue'].rolling('30D').std()
+     df['is_outlier'] = (df['revenue'] - rolling_mean).abs() > 2 * rolling_std
+     ```
+
+4. **Dependencies**:
+   - Install required packages: `pip install pandas matplotlib`
+
+The script will display the plot and print outlier statistics to the console. The red dots appear exactly at the outlier revenue values on the timeline, making it easy to identify problematic data points relative to both the raw data and smoothed trend.
+//////////////////////////////////
+
+18K tok
